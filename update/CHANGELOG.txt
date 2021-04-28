@@ -1,4 +1,4 @@
-Details in https://github.com/Cediner/ArdClient/commits/Unstable
+Details in https://github.com/At0m-PL/ArdClient/commits/Unstable
 2021.04.27
 -- Combat view
 ~
